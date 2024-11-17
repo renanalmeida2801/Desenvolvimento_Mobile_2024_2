@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+        <ImageView
+            android:id="@+id/profileImage"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/profile"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="Foto de perfil"/>
+
+    
+        <TextView
+            android:id="@+id/nameText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nome do usuário"
+            android:textSize="24sp"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="8dp"/>
+
+        <TextView
+            android:id="@+id/descriptionText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Breve descrição do usuário"
+            android:textSize="16sp"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="4dp"/>
+
+        <TextView
+            android:id="@+id/currentJobText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Emprego atual: estudante"
+            android:textSize="16sp"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="8dp"/>
+
+        <LinearLayout
+            android:id="@+id/exeperienceLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="16dp">
+                    
+            
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Experiências anteriores"
+                    android:textSize="18sp"
+                    android:paddingBottom="8dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
