@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884756856848",
+    "project_id": "investidorapprenan",
+    "storage_bucket": "investidorapprenan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884756856848:android:17984712bc33b7945e8a95",
+        "android_client_info": {
+          "package_name": "com.example.investidorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs1iwBFhlcfD48Djcmg23ZC_3yeJG-8R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
