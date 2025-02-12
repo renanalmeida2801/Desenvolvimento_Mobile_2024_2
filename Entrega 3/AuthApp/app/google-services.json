@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698893100891",
+    "project_id": "authapp-renan",
+    "storage_bucket": "authapp-renan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698893100891:android:3beede7754fdffe6309c7e",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdP7-s2QdIYBbFyPatSj3UegTj9Fm90Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "698893100891",
+    "project_id": "authapp-renan",
+    "storage_bucket": "authapp-renan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698893100891:android:3beede7754fdffe6309c7e",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698893100891-dg8m77ebv7n69do99q4jcsftje3jts0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdP7-s2QdIYBbFyPatSj3UegTj9Fm90Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698893100891-dg8m77ebv7n69do99q4jcsftje3jts0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698893100891:android:00d1dcf80a3e6104309c7e",
+        "android_client_info": {
+          "package_name": "com.example.authapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698893100891-dg8m77ebv7n69do99q4jcsftje3jts0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdP7-s2QdIYBbFyPatSj3UegTj9Fm90Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698893100891-dg8m77ebv7n69do99q4jcsftje3jts0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
